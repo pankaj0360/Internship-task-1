@@ -23,4 +23,11 @@ This is a clean, responsive, and user-friendly webpage created to promote the PS
 ---
 
 ## 📁 Project Structure
-
+PS-Creator-Landing-Page/
+│
+├── index.html # Main landing page
+├── about.html # About page (linked in nav)
+├── contact.html # Contact page (linked in nav)
+├── style.css # All styling here
+├── my logo.png # Logo image used in navbar and hero
+└── README.md # Project documentation
